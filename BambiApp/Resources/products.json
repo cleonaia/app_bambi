@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Pintura Acrílica BAMBI",
+    "description": "Pintura base agua para interiores y exteriores.",
+    "imageUrl": "product1",
+    "colorOptions": ["#FF0000", "#FFFF00", "#FFFFFF"],
+    "type": "Acrílica",
+    "finish": "Mate",
+    "technicalSheet": "https://www.invipintsaci.com.py/fichas/1.pdf"
+  },
+  {
+    "id": 2,
+    "name": "Esmalte Sintético BAMBI",
+    "description": "Acabado brillante y resistente.",
+    "imageUrl": "product2",
+    "colorOptions": ["#0000FF", "#00FF00"],
+    "type": "Esmalte",
+    "finish": "Brillante",
+    "technicalSheet": "https://www.invipintsaci.com.py/fichas/2.pdf"
+  }
+]

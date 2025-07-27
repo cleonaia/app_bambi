@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Casa Central",
+    "address": "Av. Principal 123, Asunción",
+    "latitude": -25.2637,
+    "longitude": -57.5759,
+    "hours": "Lun-Vie 8:00-17:00",
+    "whatsapp": "+595981111111"
+  },
+  {
+    "id": 2,
+    "name": "Sucursal San Lorenzo",
+    "address": "Ruta 2, Km 10, San Lorenzo",
+    "latitude": -25.3395,
+    "longitude": -57.5088,
+    "hours": "Lun-Sab 8:00-16:00",
+    "whatsapp": "+595982222222"
+  }
+]
